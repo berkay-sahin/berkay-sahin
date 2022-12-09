@@ -11,6 +11,6 @@
 <h3>:fire: My Stats :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkay-sahin&show_icons=true&locale=en&layout=compact" alt="berkay-sahin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkay-sahin&show_icons=true&locale=en" alt="berkay-sahin" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=berkay-sahin&" alt="berkay-sahin" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=berkay-sahin&" alt="berkay-sahin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkay-sahin&show_icons=true&locale=en" alt="berkay-sahin" /></p>
